@@ -1,0 +1,10 @@
+
+for notifications
+https://ant.design/components/notification
+
+1-couses ka schema ka crud
+1 -courses ka category 
+
+product ka schema ka crud
+2 - product ka category
+
